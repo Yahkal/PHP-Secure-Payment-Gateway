@@ -1,6 +1,6 @@
 |************************************************************************************************|
 |*	CLASS NAME	: PHP SECURE PAYMENT GATEWAY												   	*|
-|*	DEVELOPER	: Samuel Adeshina <samueladeshina73@gmail.com>		        				  	*|
+|*	DEVELOPER	: Yahkal Fisher <info@lyndact.us>		        				  	*|
 |*	LICENSE		: GPL(Generic Public License)												 	*|
 |*	DATE		: 23 June 2015								   							    	*|
 |*	DESCRIPTION	: This class uses the Authorize.Net SIM API to provide 					   		*|
@@ -70,6 +70,6 @@ HAVE FUN WHILE CODING, DON'T FORGET TO RATE THIS PACKAGE ON THE PHPCLASSES SITE 
 ME ON ONE OF THE ADDRESSES BELOW IF YOU HAVE A QUESTION OR YOU JUST WANT TO TALK ABOUT ENNGINEERING SOFTWARES!
 
 facebook => 
-email => samueladeshina73@gmail.com
+email => info@lyndact.us
 twitter =>
-whatsapp => +23408139344522
+whatsapp =>
